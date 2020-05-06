@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PlayTimes-1.2.15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependencies/PlayTimes-1.2.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

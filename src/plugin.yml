@@ -1,0 +1,12 @@
+name: Rank
+version: 1.0.0
+author: TechnoVision
+main: com.technovision.rankup.RankUp
+api-version: 1.8.8
+depend: [Essentials, Vault, LuckPerms, Playtimes]
+
+commands:
+  rankup:
+    description: Opens the rank screen.
+    usage: /<command>
+    aliases: [rank, ranks, levelup]

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Rankup:jar">
+    <output-path>$PROJECT_DIR$/../test/plugins</output-path>
+    <root id="archive" name="Rankup.jar">
+      <element id="module-output" name="Rankup" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/spigot-api-1.8.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/LuckPerms.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/EssentialsX.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
